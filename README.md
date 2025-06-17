@@ -122,11 +122,7 @@ All generated adversarial datasets will be saved to the `Adversarial_Datasets_Ge
 
 ## Example Visualization: Original vs. PGD Attack
 
-The following shows a sample image correctly classified by ResNet-34, and the corresponding adversarial image which, despite being visually identical to the human eye, is confidently misclassified.
-
-**Original Image (`L-infinity` perturbation added)**
-![An image of a siamese cat that has been subtly modified to fool an AI model.](https://i.imgur.com/uR1k3bN.png)
-*Model Prediction: `Guacamole` (Incorrect)*
+The DL_project_2-2.pdf shows extensively evaluated images with pertubation added and incorrect model predictions.
 
 ---
 
